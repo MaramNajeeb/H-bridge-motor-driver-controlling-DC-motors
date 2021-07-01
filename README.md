@@ -12,3 +12,6 @@ In the coding, we can control the speed and the movement of each motor.
 The two speed control pins "Enable" are used to turn ON, OFF and control speed of the motor.
 
 By using the direction control pins "Input", we can control whether the motor spins forward or backward by applying either a logic HIGH(5 Volts) or logic LOW(Ground) to these pins.
+
+
+![H-bridge l293D controlling DC motors ](https://user-images.githubusercontent.com/85887579/124116495-aa6a7900-da77-11eb-86c3-b65e3c9cb2db.png)
